@@ -4,6 +4,7 @@
 
 ## About Me
 * I'm a Computer Science Student at University of Nottingham
+* Aspiring Software Developer
 * Interested in Mobile/Web Application Development & Game Development
 ### 🌐 Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
